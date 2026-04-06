@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on:<br><br>Leading systems uplift to modernise Australia’s national payment platforms (real-time payments, ISO 20022), building resilient microservices, APIs, and improving operational observability and incident response; exploring Agentic AI and AI-assisted developer tooling.<br><br>I'm looking for help with:<br><br>Partners or domain experts for Agentic AI experimentation<br><br>I'm currently learning:<br><br>Agentic AI applications and AWS services
+- 🔭 I’m currently working on Leading systems uplift to modernise Australia’s national payment platforms (real-time payments, ISO 20022), building resilient microservices, APIs, and improving operational observability and incident response; exploring Agentic AI and AI-assisted developer tooling.
+- 🌱 I’m currently learning Agentic AI applications and AWS services
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with Partners or domain experts for Agentic AI experimentation
+- 📫 How to reach me: hajimoosha@gmail.com
 
 
 ## 🌐 Socials:
